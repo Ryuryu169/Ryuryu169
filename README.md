@@ -1,16 +1,21 @@
 ### Hi there 👋
 
-<!--
-**Ryuryu169/Ryuryu169** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👨‍🎓 About me
+ I'm Bradman, an enthusiastic student at Tokyo Kosen (College in Japan), majoring in computer science.
 
-Here are some ideas to get you started:
+- 📝 Currently learning at school
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 👯 My past projects
+  
+
+- 💪 Skills
+  
+
+- 📫 How to reach me
+  Gmail:
+
+- ⚡ Fun fact
+  I love music. I used to play violin, went to Chorus club in my junior high school period, and started playing guitar recently.
+
+[![Kaname's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ryuryu169)](https://github.com/anuraghazra/github-readme-stats)
