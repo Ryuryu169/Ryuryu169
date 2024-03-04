@@ -18,4 +18,6 @@
 - ⚡ Fun fact
   I love music. I used to play violin, went to Chorus club in my junior high school period, and started playing guitar recently.
 
-[![Kaname's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ryuryu169)](https://github.com/anuraghazra/github-readme-stats)
+[![Kaname's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ryuryu169&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
