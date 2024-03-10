@@ -3,16 +3,13 @@
 
 👨‍🎓 About me
 --
-- I'm Kaname, an enthusiastic student at Tokyo Kosen (College in Japan), majoring in computer science.
+I'm Kaname, an enthusiastic student at Tokyo Kosen (College in Japan), majoring in computer science.
 <br/>
 
 ### 📝 Currently learning at school
-- Hardware
-	- Arduino, Networking, Basics of Embedding system
-- Software
-	- Java application, C application, Linux systems
-- Others
- - Data Science, Image recognition, Graph theory
+- Hardware (Arduino, Networking, Basics of Embedding system)
+- Software (Java application, C application, Linux systems)
+- Others (Data Science, Image recognition, Graph theory)
 
 <br/>
 
